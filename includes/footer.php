@@ -30,11 +30,6 @@
 				<div class="span8 smallspacetop">
 					<div class="pull-right smaller">
 						<ul class="footermenu">
-							<li><a href="#">Home</a></li>
-							<li><a href="#">Work</a></li>
-							<li><a href="#">Pages</a></li>
-							<li><a href="#">Blog</a></li>
-							<li><a href="#">Contact</a></li>
 						</ul>
 					</div>
 					<div class="clearfix">
