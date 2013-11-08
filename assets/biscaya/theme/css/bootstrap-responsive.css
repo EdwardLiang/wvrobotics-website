@@ -947,7 +947,7 @@
   .carousel-caption {
     position: static;
   }
-
+  
 }
 
 @media (max-width: 979px) {
@@ -1135,8 +1135,19 @@ body.boxed div.body {margin-bottom:0px;}
 .navbar .nav > li{line-height:10px;}
 .navbar .nav .dropdown-toggle .caret{margin-top:3px;}
 .dropdown-menu{min-width:110px;}
-}
 
+}
+@media (max-width:720px){
+.navbar .nav{
+    float: none;
+    text-align: center;
+}
+.navbar .nav > li{
+    float: none;
+    display: inline-block;
+}
+.navbar .divider-vertical {display: none !Important;}
+}
 
 @media (max-width: 480px) {
 #quotes {height: 140px;}
