@@ -1110,10 +1110,9 @@
 }
 
 
-
 @media (min-width: 176px) and (max-width: 1200px) {
 .graysection {margin-left: 0px;margin-right: 0px;padding-left: 0px;padding-right: 0px;border-top: 1px solid #f4f4f4;border-bottom: 1px solid #f4f4f4;background:#fff;}
-body.boxed {background: none;padding: 0px 15px;overflow:hidden;}
+body.boxed {padding: 0px 15px;overflow:hidden;}
 body.boxed div.body {-moz-box-shadow: none;-webkit-box-shadow: none;box-shadow: none;}
 }
 
@@ -1125,13 +1124,17 @@ body.boxed div.body {margin-bottom:0px;}
 .camera_fakehover {min-height:400px;}
 .cameraContents .camera_caption h1 {font-size:14px;}
 .cameraContents .camera_caption span {font-size:12px;}
-.navbar-inner {background: #fff;}
 #search input, #search a {height:40px;}
 .thumbnail {margin-bottom:25px;}
 .slidershadow, .slidershadowcam {display:none;}
 .grey-box-icon {margin-bottom: 25px;}
 .row-fluid .controls-row [class*="span"] + [class*="span"] {margin-left: 0;}
 .boxportfolio2, .boxportfolio3, .boxportfolio4 {width:96%;}
+.navbar-inner{min-height:30px;}
+.navbar .divider-vertical{height:30px;}
+.navbar .nav > li{line-height:10px;}
+.navbar .nav .dropdown-toggle .caret{margin-top:3px;}
+.dropdown-menu{min-width:110px;}
 }
 
 
@@ -1149,4 +1152,8 @@ form#search {display:none;}
 .intro h1 {font-size: 20px;line-height: 25px;}
 .lead {font-size: 16px;line-height: 24px;}
 .boxportfolio2, .boxportfolio3, .boxportfolio4 {width:96%;}
+}
+
+@media (max-width: 980px){
+    body.boxed{background:none;}
 }

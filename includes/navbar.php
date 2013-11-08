@@ -22,7 +22,7 @@
               <!--.dropdown-->
             </ul>
             </li>
-                        <li class="divider-vertical"></li>
+            <li class="divider-vertical"></li>
             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FRC 3341 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
               <li><a href="columns.html">Atlas</a></li>

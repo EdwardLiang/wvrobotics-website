@@ -1,4 +1,5 @@
 /*! http://tinynav.viljamis.com v1.1 by @viljamis */
+/*
 (function ($, window, i) {
   $.fn.tinyNav = function (options) {
 
@@ -80,7 +81,7 @@
   };
 })(jQuery, this, 0);
 
-
+*/
 
 /**
  * Isotope v1.5.25

@@ -115,10 +115,12 @@ jQuery(document).ready(function ($) {
 $('.textItem').quovolver();
   });
 
+/*
 //////----Tiny Nav Responsive Menu---////////
  $(function () {
     $("#nav").tinyNav();
   });
+*/
   
   
 //////----Placeholder for IE---////////
