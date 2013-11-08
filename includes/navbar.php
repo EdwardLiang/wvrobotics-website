@@ -2,7 +2,7 @@
 <div class="container clearfix">
   <div class="row-fluid">
     <div class="span12">
-      <h1 class="brandlogo"><a href="index.html"><img src="assets/img/header-robotics.png" alt=""></a></h1>
+      <h1 class="brandlogo"><a href="index.php"><img src="assets/img/header-robotics.png" alt=""></a></h1>
       <div class="topinfo">
         <ul class="social-icons list-soc">
           <li><a href="https://www.facebook.com/FIRSTWVRobotics"><i class="icon-facebook"></i></a></li>
@@ -14,7 +14,7 @@
       <div class="row-nav navbar">
         <div class="navbar-inner">
           <ul id="nav" class="nav">
-            <li class="active selected"><a href="index.html">Home</a></li>
+            <li class="active selected"><a href="index.php">Home</a></li>
             <li class="divider-vertical"></li>
             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
@@ -35,8 +35,8 @@
             <li class="divider-vertical"></li>
             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FTC 5555 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="portfolio.html">Portfolio List</a></li>
-              <li><a href="projectdetail.html">Project Detail</a></li>
+              <li><a href="portfolio.html">Temporary</a></li>
+              <li><a href="projectdetail.html">Temporary</a></li>
               <!--.dropdown-->
             </ul>
             </li>
