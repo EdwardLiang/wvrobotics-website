@@ -14,16 +14,16 @@
       <div class="row-nav navbar">
         <div class="navbar-inner">
           <ul id="nav" class="nav">
-            <li class="active selected"><a href="index.php">Home</a></li>
+            <li class="selected" id="home"><a href="index.php">Home</a></li>
             <li class="divider-vertical"></li>
             <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="about.php">About</a></li>
+              <li id="about"><a href="about.php">About</a></li>
               <!--.dropdown-->
             </ul>
             </li>
             <li class="divider-vertical"></li>
-            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FRC 3341 <b class="caret"></b></a>
+            <li id="frc" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FRC 3341 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
               <li><a href="columns.html">Atlas</a></li>
               <li><a href="masonry4.html">Peace Keeper</a></li>
@@ -33,7 +33,7 @@
             </ul>
             </li>
             <li class="divider-vertical"></li>
-            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FTC 5555 <b class="caret"></b></a>
+            <li class="dropdown" id="ftc"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FTC 5555 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
               <li><a href="portfolio.html">Temporary</a></li>
               <li><a href="projectdetail.html">Temporary</a></li>
@@ -41,11 +41,11 @@
             </ul>
             </li>
             <li class="divider-vertical"></li>
-            <li><a href="outreach.php">Outreach</a></li>
+            <li id="outreach"><a href="outreach.php">Outreach</a></li>
             <li class="divider-vertical"></li>
-            <li><a href="sponsors.php">Sponsors</a></li>
+            <li id="sponsors"><a href="sponsors.php">Sponsors</a></li>
             <li class="divider-vertical"></li>
-            <li><a href="contact.php">Contact</a></li>
+            <li id="contact"><a href="contact.php">Contact</a></li>
             <li class="divider-vertical"></li>
 
           </ul>

@@ -50,5 +50,6 @@
 <script src="assets/biscaya/theme/js/bootstrap.js"></script>
 <script src="assets/biscaya/theme/js/plugins.js"></script>
 <script src="assets/biscaya/theme/js/custom.js"></script>
+<script src="assets/js/navbar.js"></script>
 <!-- CALL CAMERA SLIDER -->
 
