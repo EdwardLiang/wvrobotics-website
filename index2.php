@@ -11,6 +11,48 @@
 	</div>
 	<!-- /end header -->
 	<div class="container">
+
+    <div class="row-fluid">
+			<div class="camera_wrap pattern_4 camera_emboss" id="camera_wrap_4">
+				<div data-src="assets/img/frc3.jpg">
+					<div class="camera_caption fadeFromTop">
+					</div>
+				</div>
+				<div data-src="assets/img/ftc1.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/frc1.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/ftc3.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/ftc2.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/frc2.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/outreach2.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+        <div data-src="assets/img/outreach.jpg">
+					<div class="camera_caption fadeFromRight">
+					</div>
+				</div>
+
+			</div>
+			<div class="text-center">
+				<img src="assets/biscaya/theme/img/sha.png" class="slidershadowcam" alt="">
+			</div>
+		</div>
+
 	</div>
 <?php include('includes/footer.php'); ?>
 

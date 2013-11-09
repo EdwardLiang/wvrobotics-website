@@ -2,6 +2,7 @@
 <div class="container clearfix">
   <div class="row-fluid">
     <div class="span12">
+      <h1 class="brandlogo"><a href="index.php"><img src="assets/img/logo.png" alt="" style="width: 65px;"></a></h1>
       <h1 class="brandlogo"><a href="index.php"><img src="assets/img/header-robotics.png" alt=""></a></h1>
       <div class="topinfo">
         <ul class="social-icons list-soc">
@@ -25,18 +26,18 @@
             <li class="divider-vertical"></li>
             <li id="frc" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FRC 3341 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="columns.html">Atlas</a></li>
-              <li><a href="masonry4.html">Peace Keeper</a></li>
-              <li><a href="masonry3.html">Fat Man</a></li>
-              <li><a href="masonry2.html">Trinity</a></li>
+              <li><a href="frc.php#atlas">Atlas</a></li>
+              <li><a href="frc.php#peacekeeper">Peace Keeper</a></li>
+              <li><a href="frc.php#fatman">Fat Man</a></li>
+              <li><a href="frc.php#trinity">Trinity</a></li>
               <!--.dropdown-->
             </ul>
             </li>
             <li class="divider-vertical"></li>
             <li class="dropdown" id="ftc"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FTC 5555 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="portfolio.html">Temporary</a></li>
-              <li><a href="projectdetail.html">Temporary</a></li>
+              <li><a href="ftc.php#asimov">Asimov</a></li>
+              <li><a href="ftc.php#temporary">Temporary</a></li>
               <!--.dropdown-->
             </ul>
             </li>
