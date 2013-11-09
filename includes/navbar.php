@@ -2,8 +2,7 @@
 <div class="container clearfix">
   <div class="row-fluid">
     <div class="span12">
-      <h1 class="brandlogo"><a href="index.php"><img src="assets/img/logo.png" alt="" style="width: 65px;"></a></h1>
-      <h1 class="brandlogo"><a href="index.php"><img src="assets/img/header-robotics.png" alt=""></a></h1>
+      <h1 class="brandlogo"><a href="index.php"><img class="hidden-phone" src="assets/img/logo.png" alt="" style="width: 65px;"></a><img src="assets/img/header-robotics.png" alt="" style="display:inline-block"></h1>
       <div class="topinfo">
         <ul class="social-icons list-soc">
           <li><a href="https://www.facebook.com/FIRSTWVRobotics"><i class="icon-facebook"></i></a></li>
