@@ -42,10 +42,6 @@
 					<div class="camera_caption fadeFromRight">
 					</div>
 				</div>
-        <div data-src="assets/img/outreach.jpg">
-					<div class="camera_caption fadeFromRight">
-					</div>
-				</div>
 
 			</div>
 			<div class="text-center">
