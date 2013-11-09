@@ -11,65 +11,64 @@
 	</div>
 	<!-- /end header -->
 	<div class="container">
+    <?php 
+        if(isset($_GET['id'])){
+            include "frc/" . $_GET['id'] . ".php";
+        }
+        else{
+            include "frc/atlas.php";
+        }
+    ?>
 	</div>
 <?php include('includes/footer.php'); ?>
 
-<script>
-	jQuery(function(){
-		jQuery('#camera_wrap_4').camera({
-			height: 'auto',
-			loader: 'bar',
-			pagination: false,
-			thumbnails: false,
-			hover: false,
-			opacityOnGrid: false,
-			imagePath: 'img/'
-		});
+<script type="text/javascript">
+  $(window).load(function() {
+	$('.flexslider').flexslider({
+	pauseOnHover: false,    
+	slideshow: true,                //Boolean: Animate slider automatically
+	slideshowSpeed: 4000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
+	animationSpeed: 1300,
+	animation: "slide",              //String: Select your animation type, "fade" or "slide"
+	easing: "swing",               //{NEW} String: Determines the easing method used in jQuery transitions. jQuery easing plugin is supported!
+	direction: "horizontal",
+	controlNav: true,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
+	directionNav: true
 	});
+  });
 </script>
-<!-- CALL FEATURED WORK -->
+<!-- CALL CAROUSEL LIST -->
 <script type="text/javascript">
-$(window).load(function(){			
-			$('#recent-projects').carouFredSel({
-				responsive: true,
-				width: '100%',
-				auto: true,
-				circular	: true,
-				infinite	: false,
-				prev : {
-					button		: "#car_prev",
-					key			: "left",
-						},
-				next : {
-					button		: "#car_next",
-					key			: "right",
+	$(window).load(function(){			
+				$('#recent-projects').carouFredSel({
+					responsive: true,
+					width: '100%',
+					auto: true,
+					circular	: true,
+					infinite	: false,
+					prev : {
+						button		: "#car_prev",
+						key			: "left",
 							},
-				swipe: {
-					onMouse: true,
-					onTouch: true
-					},
-				scroll : 1500,
-				items: {
-					visible: {
-						min: 1,
-						max: 1
+					next : {
+						button		: "#car_next",
+						key			: "right",
+								},
+					swipe: {
+						onMouse: true,
+						onTouch: true
+						},
+					scroll : 1500,
+					items: {
+						visible: {
+							min: 4,
+							max: 4
+						}
 					}
-				}
-			});
-		});	
-</script>
-<!-- CALL ACCORDION -->
-<script type="text/javascript">
-	$(".accordion h3").eq(0).addClass("active");
-	$(".accordion .accord_cont").eq(0).show();
-	$(".accordion h3").click(function(){
-		$(this).next(".accord_cont").slideToggle("slow")
-		.siblings(".accord_cont:visible").slideUp("slow");
-		$(this).toggleClass("active");
-		$(this).siblings("h3").removeClass("active");
-	});	
-</script>
-<!-- Call opacity on hover images from recent news-->
+				});
+			});	
+	</script>
+<!-- Call opacity on hover images from carousel-->
 <script type="text/javascript">
 $(document).ready(function(){
     $("img.imgOpa").hover(function() {
@@ -80,6 +79,5 @@ $(document).ready(function(){
     });
   });
 </script>
-
 </body>
 </html>

@@ -25,10 +25,10 @@
             <li class="divider-vertical"></li>
             <li id="frc" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FRC 3341 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="frc.php#atlas">Atlas</a></li>
-              <li><a href="frc.php#peacekeeper">Peace Keeper</a></li>
-              <li><a href="frc.php#fatman">Fat Man</a></li>
-              <li><a href="frc.php#trinity">Trinity</a></li>
+              <li><a href="frc.php?id=atlas">Atlas</a></li>
+              <li><a href="frc.php?id=peacekeeper">Peacekeeper</a></li>
+              <li><a href="frc.php?id=fatman">Fat Man</a></li>
+              <li><a href="frc.php?id=trinity">Trinity</a></li>
               <!--.dropdown-->
             </ul>
             </li>
