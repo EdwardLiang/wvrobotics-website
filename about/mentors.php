@@ -5,7 +5,7 @@
         </div>
 </div>		
 <div class="row-fluid">
-  <div class="span4 well">
+  <div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/BrynBishop.jpg" alt="">
 					<div class="caption">
@@ -16,7 +16,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="span4 well">
+			<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/ScottStamp.jpg" alt="">
 					<div class="caption">
@@ -25,7 +25,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="span4 well">
+			<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/TimMancillas.jpg" alt="">
 					<div class="caption">
@@ -36,7 +36,7 @@
 			</div>
 </div>
 <div class="row-fluid">
-    <div class="span4 well">
+    <div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/CathyRongey.jpg" alt="">
 					<div class="caption">
@@ -45,7 +45,7 @@
 					</div>
 				</div>
 			</div>
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/ChrisBishop.jpg" alt="">
 					<div class="caption">
@@ -54,7 +54,7 @@
 					</div>
 				</div>
 			</div>
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/DaveCraig.jpg" alt="">
 					<div class="caption">
@@ -65,7 +65,7 @@
 			</div>
 </div>
 <div class="row-fluid">
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/GabrieleSchmid.jpg" alt="">
 					<div class="caption">
@@ -74,7 +74,7 @@
 					</div>
 				</div>
 			</div>
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/JimStranger.png" alt="">
 					<div class="caption">
@@ -83,7 +83,7 @@
 					</div>
 				</div>
 			</div>
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/RajeshPankaj.jpg" alt="">
 					<div class="caption">
@@ -94,7 +94,7 @@
 			</div>
 </div>
 <div class="row-fluid">
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/ScottRongey.jpg" alt="">
 					<div class="caption">
@@ -103,7 +103,7 @@
 					</div>
 				</div>
 			</div>
-<div class="span4 well">
+<div class="span4" style="height: 328px;">
 				<div class="thumbnail">
 					<img src="assets/img/about/TomRamos.png" alt="">
 					<div class="caption">

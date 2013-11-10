@@ -97,15 +97,5 @@ $(this).next().slideToggle('normal'); // Toggle dd when the respective dt is cli
 }); 
 });
 </script>
-<script type="text/javascript">
-$(document).ready(function(){
-    boxes = $('.well');
-    maxHeight = Math.max.apply(
-    Math, boxes.map(function() {
-        return $(this).height();
-    }).get());
-    boxes.height(maxHeight);
-});
-</script>
 </body>
 </html>
