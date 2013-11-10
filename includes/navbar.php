@@ -38,8 +38,8 @@
             <li class="divider-vertical"></li>
             <li class="dropdown" id="ftc"><a href="#" class="dropdown-toggle" data-toggle="dropdown">FTC 5555 <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li><a href="ftc.php?id=asimov">Asimov</a></li>
               <li><a href="ftc.php?id=2013">2013</a></li>
+              <li><a href="ftc.php?id=2012">2012</a></li>
               <!--.dropdown-->
             </ul>
             </li>
