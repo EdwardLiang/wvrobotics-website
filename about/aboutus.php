@@ -1,3 +1,8 @@
+<div class="page-header">
+        <h1>About Us</h1>
+        <div class="headerdivider">
+        </div>
+</div>
 <div class="clear"></div><h3>How We Started</h3>
 <p><img src="assets/img/about/about_photo.jpg" alt="Our Team" style="float: right; padding-left: 10px;">Started as a small curious group in 2006, our club has now expanded to <a href="?id=members" title="Members">50+ members</a>.  In the beginning, the club participated in Botball, FTC, FirstVex and other various small competitions. In 2010, however, a new chapter began as more people joined robotics club. Various new members from veteran FRC teams transferred to Westview and enough interest was available to get the club's inaugural FRC season underway. From now on, the club's primary focus will be the FIRST Robotics Competition, and the team has transformed into a micro-corporation as members expand their knowledge into fields outside of programming. This year, we have started three FTC teams again as a pre-season event. The experience and knowledge from the FTC season flows into the FRC competition, so the team becomes more dynamic and experienced.</p><br>
 <h3>Word from Our Founder</h3>
