@@ -16,9 +16,11 @@
           <ul id="nav" class="nav">
             <li class="selected" id="home"><a href="index.php">Home</a></li>
             <li class="divider-vertical"></li>
-            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
+            <li id="about" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
             <ul class="dropdown-menu js-activated" style="display: none;">
-              <li id="about"><a href="about.php">About</a></li>
+              <li><a href="about.php">About</a></li>
+              <li><a href="about.php?id=mentors">Mentors</a></li>
+              <li><a href="about.php?id=members">Members</a></li>
               <!--.dropdown-->
             </ul>
             </li>

@@ -1795,6 +1795,13 @@ padding:3px 0 10px 30px;
 position:relative;
 font-weight:normal;
 }
+.faqs2 dt {
+font-size:13px;
+background:url(../img/plus.png) 20px 4px no-repeat;
+padding:3px 0 10px 50px;
+position:relative;
+font-weight:normal;
+}
 .faqs dt:hover {
 cursor:pointer
 }

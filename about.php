@@ -11,6 +11,14 @@
 	</div>
 	<!-- /end header -->
 	<div class="container">
+    <?php 
+        if(isset($_GET['id'])){
+            include "about/" . $_GET['id'] . ".php";
+        }
+        else{
+            include "about/aboutus.php";
+        }
+    ?>
 	</div>
 <?php include('includes/footer.php'); ?>
 
@@ -79,6 +87,15 @@ $(document).ready(function(){
       $(this).stop().animate({opacity: "1.0"}, 'slow');
     });
   });
+</script>
+
+<script type="text/javascript"> 
+$(document).ready(function () {
+// ---- FAQs ---------------------------------------------------------------------------------------------------------------
+$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ // Add class "hover" on dt when hover
+$(this).next().slideToggle('normal'); // Toggle dd when the respective dt is clicked
+}); 
+});
 </script>
 
 </body>
