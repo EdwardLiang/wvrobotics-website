@@ -52,17 +52,34 @@
 				<img src="assets/biscaya/theme/img/sha.png" class="slidershadowcam" alt="">
 			</div>
 		</div>
-    <div class="row-fluid">
-        <div class="titleborder">
+<div class="titleborder">
             <div>
                 Recent Activity 
             </div>
         </div>
-        <div class="span6">
+    <div class="row-fluid">
+        <div class="span4">
+            <div class="boxblog" style="height: 570px">
+                <h5><a href="#">Announcements</a></h5>
+                <p class="small datepost">
+                     Last Posted on 2013-11-9 <span class="floatright" title="3 responses"></span>
+                </p>
+                <div class="innerblogboxtwo">
+                    <p>
+                    </p>
+                </div>
+            </div>
+            </div>
+
+        <div class="span4">
 <div class="fb-like-box" data-href="https://www.facebook.com/FIRSTWVRobotics" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
         </div>
-        <div class="span6">
+        <div class="span4">
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/option_16" data-widget-id="399375027914567682">Tweets by @option_16</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
+
+        
     </div>
 	</div>
 <?php include('includes/footer.php'); ?>
