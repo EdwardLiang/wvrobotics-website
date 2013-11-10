@@ -16,7 +16,7 @@
 	<!-- /end header -->
 	<div class="container">
 		<div class="page-header">
-			<h1>Get in Touch</h1>
+			<h1>Contact Us</h1>
 			<div class="headerdivider">
 			</div>
 		</div>
