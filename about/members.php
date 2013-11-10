@@ -17,6 +17,7 @@
         <dd>
             <ul>
                <li>Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
+               <li>GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
                <li>Description: Hi, I made this site.</li>
             </ul>
         </dd>
@@ -69,7 +70,6 @@
     <p>TBA</p>
 </dl>
 
-</div>
 </div>
 </div>
 
