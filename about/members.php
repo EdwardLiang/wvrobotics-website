@@ -5,7 +5,7 @@
 </div>
 <div class="row-fluid">
 <div class="span12">
-<h1 class="faqstitle"><span class="icon-flag faqsicon"></span> Leaders</h1>
+<h1 class="faqstitle"><span class="icon-sitemap faqsicon"></span> Leaders</h1>
 <dl class="faqs">
     <dt>President - Cameron Ramos</dt>
         <dd></dd>
@@ -16,12 +16,12 @@
     <dt>Director of Technology - Edward Liang</dt>
         <dd>
             <ul>
-               <li>Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
-               <li>GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
-               <li>Description: Hi, I made this site.</li>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
+               <li><span class="icon-github-sign"></span> GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
+               <li><span class="icon-pencil"></span> Description: Hi, I made this site.</li>
             </ul>
         </dd>
-<h1 class="faqstitle"><span class="icon-flag faqsicon"></span> Technology</h1>
+<h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
 <dl class="faqs faqs2">
     <br>
     <dt>FRC Technology Director - Massoud Maher</dt>
@@ -33,14 +33,14 @@
     <dt>FTC Captain Mary Aquiningoc</dt>
         <dd></dd>
 </dl>
-<h1 class="faqstitle"><span class="icon-flag faqsicon"></span> Outreach</h1>
+<h1 class="faqstitle"><span class="icon-globe faqsicon"></span> Outreach</h1>
 <dl class="faqs faqs2">
     <br>
     <dt>Director of Outreach Operations - Treven Moore</dt>
         <dd></dd>
 </dl>
 
-<h1 class="faqstitle"><span class="icon-flag faqsicon"></span> Business/Branding</h1>
+<h1 class="faqstitle"><span class="icon-male faqsicon"></span> Business/Branding</h1>
 <dl class="faqs faqs2">
     <br>
     <dt>Director of Business Operations - Victoria Tom</dt>
@@ -65,7 +65,7 @@
 
 </dl>
 
-<h1 class="faqstitle"><span class="icon-flag faqsicon"></span> Members</h1>
+<h1 class="faqstitle"><span class="icon-group faqsicon"></span> Members</h1>
 <dl class="faqs">
     <p>TBA</p>
 </dl>
