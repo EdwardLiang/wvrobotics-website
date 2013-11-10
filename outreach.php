@@ -32,7 +32,7 @@
 <a title="None" data-slug="tia-christati" class="authorlink" href="http://wvnexus.org/author/tia-christati/1">Tia Christati</a></span><br></div></div>
 
 </p>
-<p><div class="image-default auto" style="float:right"><div class="image-wrap"><a class="embeddable" href="http://wvnexus.org/image/img_9864/"><img id="img_9864" alt="img_9864" src="http://wvnexus.org/media/cache/image_thumbs/IMG_9864@530x2048.jpg"></a></div><div class="entry-meta"><span class="img_author author">
+<p><div class="image-default auto" style="float:right;"><div class="image-wrap"><a class="embeddable" href="http://wvnexus.org/image/img_9864/"><img id="img_9864" alt="img_9864" src="http://wvnexus.org/media/cache/image_thumbs/IMG_9864@530x2048.jpg"></a></div><div class="entry-meta"><span class="img_author author">
         Image courtesy of 
         
 <a title="None" data-slug="tia-christati" class="authorlink" href="http://wvnexus.org/author/tia-christati/1">Tia Christati</a></span><br></div></div>
