@@ -11,11 +11,6 @@
 	</div>
 	<!-- /end header -->
 	<div class="container">
-    <div class="alert alert-error">
-                    <button type="button" class="close" data-dismiss="alert">×</button>
-                    <strong>Hello!</strong> This website is a work-in-progress. Things may be incomplete or missing altogether. Check progress <a href="https://github.com/EdwardLiang/wvrobotics-website">here.</a>
-                </div>
-
     <div class="row-fluid">
 			<div class="camera_wrap pattern_4 camera_emboss" id="camera_wrap_4">
 				<div data-src="assets/img/frc3.jpg">
