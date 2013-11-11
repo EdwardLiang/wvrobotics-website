@@ -36,7 +36,7 @@
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
                <li><span class="icon-github-sign"></span> GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
-               <li><span class="icon-pencil"></span> Description: Hi, I built this site. Check out my Github for some of my other projects I've worked on including the development of: <a href=http://catalyst4success.org/>catalyst4success.org</a></li>
+               <li><span class="icon-pencil"></span> Description: Edward Liang currently attends Westview High School as a junior. In addition to what he learns at school, he entrenches himself in deep studies of the darkest arts of science for the greater good, glory and progress of humanity during his spare time.</li>
             </ul>
         </dd>
 
