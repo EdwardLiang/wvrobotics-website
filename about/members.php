@@ -26,6 +26,8 @@
         <dd>
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: weiell17@gmail.com " target="_top"> weiell17@gmail.com </a></li> 
+               <li><span class="icon-pencil"></span> Description: Willie Wu is a junior at Westview High school has been interested in science for all his life. Willie has a love for competition and cooperation and has participated in many other STEM competitions.</li>
+
             </ul>
 
 </dd>
@@ -51,27 +53,20 @@
 
 </dl>
 
-<h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
-<dl class="faqs faqs2">
-    <br>
-    <dt>FRC Overlord - Massoud Maher</dt>
-        <dd></dd>
-    <dt>FRC Technology Director - Griffin Stamp</dt>
-        <dd></dd>
-    <dt>FRC Technology Director - Rahul Malavilli</dt>
-        <dd></dd>
-    <dt>FTC Captain Mary Aquiningoc</dt>
-        <dd></dd>
-</dl>
-
 <h1 class="faqstitle"><span class="icon-male faqsicon"></span> Business/Branding</h1>
 <dl class="faqs faqs2">
     <br>
+    <dt>Director of Branding - Jason Ma</dt>
+        <dd>
+             <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: jasonma5501@gmail.com" target="_top"> jasonma5501@gmail.com</a></li> 
+               <li><span class="icon-pencil"></span> Description: Jason Ma is a junior at Westview High School with a passion for designing and building robots. He also enjoys playing chess and programming in his free time.</li>
+            </ul>
+
+        </dd>
     <dt>Director of Business Operations - Victoria Tom</dt>
         <dd></dd>
     <dt>Director of Business Operations - Ben Xia</dt>
-        <dd></dd>
-    <dt>Director of Branding - Jason Ma</dt>
         <dd></dd>
     <dt>Co-Director of Branding - Mary Aquinigoc</dt>
         <dd></dd>
@@ -86,6 +81,19 @@
     <dt>Business Co-Director - Natasha Kaushal</dt>
         <dd></dd>
 </dl>
+<h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
+<dl class="faqs faqs2">
+    <br>
+    <dt>FRC Overlord - Massoud Maher</dt>
+        <dd></dd>
+    <dt>FRC Technology Director - Griffin Stamp</dt>
+        <dd></dd>
+    <dt>FRC Technology Director - Rahul Malavilli</dt>
+        <dd></dd>
+    <dt>FTC Captain Mary Aquiningoc</dt>
+        <dd></dd>
+</dl>
+
 
 </dl>
 
