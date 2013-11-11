@@ -36,7 +36,7 @@
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
                <li><span class="icon-github-sign"></span> GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
-               <li><span class="icon-pencil"></span> Description: Hi, I built this site. Check out my Github for some of my other projects including the development of: <a href="http://wvnexus.org/">wvnexus.org</a> and <a href=http://catalyst4success.org/>catalyst4success.org</a></li>
+               <li><span class="icon-pencil"></span> Description: Hi, I built this site. Check out my Github for some of my other projects I've worked on including the development of: <a href=http://catalyst4success.org/>catalyst4success.org</a></li>
             </ul>
         </dd>
 
