@@ -61,7 +61,7 @@
         <dd>
              <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: jasonma5501@gmail.com" target="_top"> jasonma5501@gmail.com</a></li> 
-               <li><span class="icon-pencil"></span> Description: Jason Ma is a junior at Westview High School with a passion for designing and building robots. He also enjoys playing chess and programming in his free time. He has competed as driver on FTC.</li>
+               <li><span class="icon-pencil"></span> Description: Jason Ma is a junior at Westview High School with a passion for designing and building robots. He also enjoys playing chess and programming in his free time. Last year, he was a driver for FTC team 5556, which has earned him invaluable experience in competing and improvisation.</li>
             </ul>
 
         </dd>
@@ -117,7 +117,7 @@
             </ul>
     </dd>
 
-    <dt>FRC Technology Director - Rahul Malavilli</dt>
+    <dt>Business Co-Director- Rahul Malavilli</dt>
         <dd>
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto:rahul.malavalli@gmail.com" target="_top"> rahul.malavalli@gmail.com</a></li> 
