@@ -46,8 +46,8 @@
     <dt>Director of Outreach Operations - Treven Moore</dt>
         <dd>
         <ul>
-        <li><span class="icon-pencil"></span> Description: Treven Moore is a junior at Westview. He has been in Robotics since sophomore year and has competed in ftc as captain.</li>
         <li><span class="icon-envelope"></span> Email:<a href="mailto: tmracer@san.rr.com" target="_top"> tmracer@san.rr.com </a></li>
+        <li><span class="icon-pencil"></span> Description: Treven Moore is a junior at Westview. He has been in Robotics since sophomore year and has competed in ftc as captain.</li>
         </ul>
         </dd>
 
@@ -65,33 +65,85 @@
 
         </dd>
     <dt>Director of Business Operations - Victoria Tom</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: toriatom@yahoo.com" target="_top"> toriatom@yahoo.com</a></li> 
+            </ul>
+    </dd>
     <dt>Director of Business Operations - Ben Xia</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: b_to_the_enno@yahoo.com" target="_top"> b_to_the_enno@yahoo.com </a></li> 
+            </ul>
+    </dd>
     <dt>Co-Director of Branding - Mary Aquinigoc</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:mda464@aol.com" target="_top"> mda464@aol.com</a></li> 
+            </ul>
+    </dd>
     <dt>Co-Director of Branding - Lobna Allam</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:allamlobna@gmail.com" target="_top"> allamlobna@gmail.com</a></li> 
+            </ul>
+    </dd>
     <dt>Co-Director of Branding - Allen Wilhem</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:allen.wilhelm@gmail.com" target="_top"> allen.wilhelm@gmail.com</a></li> 
+            </ul>
+    </dd>
     <dt>Business Co-Director - Asia Chapman</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:asiachapman98@gmail.com" target="_top"> asiachapman98@gmail.com </a></li> 
+            </ul>
+    </dd>
     <dt>Business Co-Director - Keith Nuzzolo</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:keith-nuzzolo@sbcglobal.net" target="_top"> keith-nuzzolo@sbcglobal.net</a></li> 
+            </ul>
+    </dd>
+
     <dt>Business Co-Director - Natasha Kaushal</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:tishtash149@gmail.com" target="_top"> tishtash149@gmail.com</a></li> 
+            </ul>
+    </dd>
+
 </dl>
 <h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
 <dl class="faqs faqs2">
     <br>
     <dt>FRC Overlord - Massoud Maher</dt>
-        <dd></dd>
+         <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:mahermassoud@gmail.com" target="_top"> mahermassoud@gmail.com</a></li> 
+            </ul>
+    </dd>
+
     <dt>FRC Technology Director - Griffin Stamp</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:gstamp@san.rr.com" target="_top"> gstamp@san.rr.com</a></li> 
+            </ul>
+    </dd>  
     <dt>FRC Technology Director - Rahul Malavilli</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:rahul.malavalli@gmail.com" target="_top"> rahul.malavalli@gmail.com</a></li> 
+            </ul>
+    </dd>
     <dt>FTC Captain Mary Aquiningoc</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mda464@aol.com" target="_top"> mda464@aol.com</a></li> 
+            </ul>
+    </dd>
+
 </dl>
 
 
