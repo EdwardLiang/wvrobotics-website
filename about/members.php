@@ -8,35 +8,59 @@
 <h1 class="faqstitle"><span class="icon-sitemap faqsicon"></span> Leaders</h1>
 <dl class="faqs">
     <dt>President - Cameron Ramos</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: cameron.ramos@catalyst4success.org" target="_top"> cameron.ramos@catalyst4success.org</a></li> 
+               <li><span class="icon-pencil"></span> Description: Cameron Ramos, a senior at Westview High School, is a space enthusiast with a passion for science and engineering. In his free time, Cameron enjoys playing piano, and develops solar bio-reactors that utilize algae to convert carbon dioxide to oxygen. Cameron is also an eminent member of Westview's tennis team.</li>
+            </ul>
+        </dd>
+
     <dt>Director of Communications - Chirag Garg</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: paloo97@gmail.com" target="_top"> paloo97@gmail.com</a></li> 
+            </ul>
+
+        </dd>
     <dt>Director of Administration - Willie Wu</dt>
-        <dd></dd>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto: weiell17@gmail.com " target="_top"> weiell17@gmail.com </a></li> 
+            </ul>
+
+</dd>
     <dt>Director of Technology - Edward Liang</dt>
         <dd>
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
                <li><span class="icon-github-sign"></span> GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
-               <li><span class="icon-pencil"></span> Description: Hi, I made this site.</li>
+               <li><span class="icon-pencil"></span> Description: Hi, I built this site. Check out my Github for some of my other projects including the development of: <a href="http://wvnexus.org/">wvnexus.org</a> and <a href=http://catalyst4success.org/>catalyst4success.org</a></li>
             </ul>
         </dd>
+
+<h1 class="faqstitle"><span class="icon-globe faqsicon"></span> Outreach</h1>
+<dl class="faqs faqs2">
+    <br>
+    <dt>Director of Outreach Operations - Treven Moore</dt>
+        <dd>
+        <ul>
+        <li><span class="icon-pencil"></span> Description: Treven Moore is a junior at Westview. He has been in Robotics since sophomore year and has competed in ftc as captain.</li>
+        <li><span class="icon-envelope"></span> Email:<a href="mailto: tmracer@san.rr.com" target="_top"> tmracer@san.rr.com </a></li>
+        </ul>
+        </dd>
+
+</dl>
+
 <h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
 <dl class="faqs faqs2">
     <br>
-    <dt>FRC Technology Director - Massoud Maher</dt>
+    <dt>FRC Overlord - Massoud Maher</dt>
         <dd></dd>
     <dt>FRC Technology Director - Griffin Stamp</dt>
         <dd></dd>
     <dt>FRC Technology Director - Rahul Malavilli</dt>
         <dd></dd>
     <dt>FTC Captain Mary Aquiningoc</dt>
-        <dd></dd>
-</dl>
-<h1 class="faqstitle"><span class="icon-globe faqsicon"></span> Outreach</h1>
-<dl class="faqs faqs2">
-    <br>
-    <dt>Director of Outreach Operations - Treven Moore</dt>
         <dd></dd>
 </dl>
 
