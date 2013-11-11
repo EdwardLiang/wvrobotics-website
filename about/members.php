@@ -37,7 +37,8 @@
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: edward.k.liang@gmail.com" target="_top"> edward.k.liang@gmail.com</a></li> 
                <li><span class="icon-github-sign"></span> GitHub:<a href="https://github.com/EdwardLiang"> EdwardLiang</a></li>
-               <li><span class="icon-pencil"></span> Description: Hi! I built this site! Edward Liang currently attends Westview High School as a junior. In addition to what he learns at school, he entrenches himself in deep studies of the darkest arts of science for the greater good, glory and progress of humanity during his spare time.</li>
+               <li><span class="icon-code"></span> Hi! I built this site!</li>
+               <li><span class="icon-pencil"></span> Description: Edward Liang currently attends Westview High School as a junior. In addition to what he learns at school, he entrenches himself in deep studies of the darkest arts of science for the greater good, glory and progress of humanity during his spare time. His distractions from his work on deciphering the mysteries of the universe and ascertaining the true meaning of life include learning to build a robot army to take over the world as a member of FRC and the development of other projects/websites/games/cool stuff.
             </ul>
         </dd>
 
