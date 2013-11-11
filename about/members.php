@@ -19,6 +19,7 @@
         <dd>
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: paloo97@gmail.com" target="_top"> paloo97@gmail.com</a></li> 
+               <li><span class="icon-pencil"></span> Description: Chirag Garg is currently a junior at Westview High School. He has been involved with robotics since 7th grade, and in the 2011-2012 school year he earned the "Grinder" Award, an accolade given to the member who has displayed the most determination and integrity. An ex-Cross Country runner, he understands what is necessary for a benevolent and friendly team environment. Along with being an active member of Westview Robotics, Chirag is a football enthusiast and an avid reader. </li>
             </ul>
 
         </dd>
