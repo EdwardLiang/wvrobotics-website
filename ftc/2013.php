@@ -33,9 +33,6 @@
             <li>
             <img src="assets/img/ftc/20133.jpg" alt="">
             </li>
-            <li>
-            <img src="assets/img/ftc/20134.jpg" alt="">
-            </li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>

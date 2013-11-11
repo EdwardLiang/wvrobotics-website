@@ -61,7 +61,7 @@
         <dd>
              <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto: jasonma5501@gmail.com" target="_top"> jasonma5501@gmail.com</a></li> 
-               <li><span class="icon-pencil"></span> Description: Jason Ma is a junior at Westview High School with a passion for designing and building robots. He also enjoys playing chess and programming in his free time.</li>
+               <li><span class="icon-pencil"></span> Description: Jason Ma is a junior at Westview High School with a passion for designing and building robots. He also enjoys playing chess and programming in his free time. He has competed as driver on FTC.</li>
             </ul>
 
         </dd>
