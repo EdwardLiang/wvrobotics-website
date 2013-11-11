@@ -114,6 +114,13 @@
             </ul>
     </dd>
 
+    <dt>FRC Technology Director - Rahul Malavilli</dt>
+        <dd>
+            <ul>
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:rahul.malavalli@gmail.com" target="_top"> rahul.malavalli@gmail.com</a></li> 
+            </ul>
+    </dd>
+
 </dl>
 <h1 class="faqstitle"><span class="icon-gears faqsicon"></span> Technology</h1>
 <dl class="faqs faqs2">
