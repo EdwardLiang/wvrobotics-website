@@ -81,6 +81,8 @@
         <dd>
             <ul>
                <li><span class="icon-envelope"></span> Email:<a href="mailto:mda464@aol.com" target="_top"> mda464@aol.com</a></li> 
+               <li><span class="icon-wrench"></span> Joined 2012 on FTC</li>
+               <li><span class="icon-comment-alt"></span>"The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking" -Einstein</li>
             </ul>
     </dd>
     <dt>Co-Director of Branding - Lobna Allam</dt>
@@ -146,11 +148,14 @@
             </ul>
     </dd>
     <dt>FTC Captain Mary Aquiningoc</dt>
-        <dd>
+         <dd>
             <ul>
-               <li><span class="icon-envelope"></span> Email:<a href="mda464@aol.com" target="_top"> mda464@aol.com</a></li> 
+               <li><span class="icon-envelope"></span> Email:<a href="mailto:mda464@aol.com" target="_top"> mda464@aol.com</a></li> 
+               <li><span class="icon-wrench"></span> Joined 2012 on FTC</li>
+               <li><span class="icon-comment-alt"></span> "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking" -Einstein</li>
             </ul>
-    </dd>
+        </dd>
+
 
 </dl>
 
