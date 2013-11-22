@@ -1112,7 +1112,7 @@
 
 @media (min-width: 176px) and (max-width: 1200px) {
 .graysection {margin-left: 0px;margin-right: 0px;padding-left: 0px;padding-right: 0px;border-top: 1px solid #f4f4f4;border-bottom: 1px solid #f4f4f4;background:#fff;}
-body.boxed {padding: 0px 15px;overflow:hidden;}
+body.boxed {padding: 0px 15px;}
 body.boxed div.body {-moz-box-shadow: none;-webkit-box-shadow: none;box-shadow: none;}
 }
 
