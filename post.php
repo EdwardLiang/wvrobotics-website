@@ -6,7 +6,7 @@ $message = $_GET['message'];
 $subject = 'New message via web form, from ' . $name;
 if(strtolower($_REQUEST['code']) == strtolower($_SESSION['random_number']))
 {
-$TO = "edward.k.liang@gmail.com";
+$TO = "wvrobotics@gmail.com";
 $h = "From: " . $email;
 $content = "$name ($email) sent you the following message :\n\n$message";
 mail($TO, $subject, $content, $h);		
